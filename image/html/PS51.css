@@ -1,0 +1,33 @@
+.body {
+	
+	background-image: url('IPHone.png');
+	color: #0c0c0b;
+	padding: 0 auto;
+	margin: 0 auto;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	
+}
+
+.RE8  img {
+	
+	width: 50%;
+	position: relative;
+}
+.RE8 img {
+	
+	width: 100%;
+}
+
+.GOW  {
+ 
+     position: absolute;
+	 width: 50%;
+	 height: 50%;
+	 background: #000;
+	 top : 7.1%;
+	 left: 35%;
+     
+}

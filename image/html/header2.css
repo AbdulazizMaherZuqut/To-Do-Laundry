@@ -1,0 +1,125 @@
+ <style>
+			          
+			     #Header{
+					  
+					 background-color: white;
+				    
+						  
+			     }
+					  
+				 .A1 {
+				    
+					 color: white;
+					 font-size: 2em;
+					 text-shadow: 2px 3px 4px #333399;
+                     
+				 
+				 }
+				 
+				 #word {
+				      
+					 font-size:20px;
+					 text-indent: 50px;
+				 }
+			         
+				 ul {
+					      
+				     list-style-type: none;
+					 margin: 0; 
+					 padding: 10px;
+                     overflow: hidden;
+                     background-color: #333399;						 
+				      
+			     }
+				 
+				 li {
+				 
+				     float: left;
+					 
+				 }
+				 
+				 li a {
+				 
+				     text-indent: 4px;
+				     display: block;
+					 color: white;
+					 text-align: center;
+					 padding: 0.7rem  0.7rem;
+					 text-decoration: none;
+					 
+				 }
+				 
+				 li a:hover {
+				      
+					 background-color: #6699FF;
+					 
+				 }
+				 
+				 #body {
+					 background-color: red;
+                     margin: 50px;				 
+				 }
+				 
+				 .MOH img {
+					 
+					 width: 200px;
+					 height: 200px;
+					 margin: 10px;
+					 border-style: solid;
+					 border-color: blue;
+					 border: solid 3px;
+					 background-image: solid;
+					 padding: 0px;
+					 overflow: visible;
+				 }
+				 
+				 .row {
+					 width: 100%;
+					 display: block;
+				 }
+				 
+				 .col-md-3 {
+					 display: tabl-row;
+					 border: 2px solid #ccc;
+					 padding: 10px;
+					 width: 30%;
+					 float: left;
+					 margin: 5px;
+					 height: 570px;
+				 }
+				 
+				 .REV8 img {
+					 width: 300px;
+					 height: 300px;
+				 }
+				 
+				 .PSV5 img {
+					 width: 300px;
+					 height: 300px;
+				 }
+				 
+				 .MGS img {
+					 width: 300px;
+					 height: 300px;
+				 }
+				 
+				 .button button {
+					 border: 1px solid #700;
+					 padding:5px;
+					 color: #fff;
+					 background: #700;
+					 border-radius: 2px;
+					 transition: all 0.2;
+                     font-size:10px;
+				 }
+				 
+				 .button button:hover{
+					 border: 1px solid #700;
+					 padding:5px;
+					 color: #700;
+					 background: #fff;
+					 border-radius: 2px;
+					 transition: all 0.2;
+					 font-size: 10px;
+				 }
+</style>

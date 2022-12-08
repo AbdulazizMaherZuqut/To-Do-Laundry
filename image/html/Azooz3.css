@@ -1,0 +1,33 @@
+#Azooz2{
+ 
+    height: 300px;
+    color: blue;
+	width: 300px;
+	border: solid 3px;
+    padding: 15px;
+	padding-top: 50px;
+	margin: 0 auto;
+	margin-left: 200px;
+	margin-right: 200px;
+	font-size: 25px;
+	font-family:tahoma;
+	font-style: italic;
+	
+}
+
+.Azooz4{
+	
+	height: 350px;
+    color: red;
+	width: 500px;
+	border: solid 5px #d35400;
+    padding: 15px;
+	padding-top: 50px;
+	margin: 30px;
+	margin-left: 200px;
+	margin-right: 200px;
+	font-size: 25px;
+	font-family:tahoma;
+	font-style: italic;
+	
+}
